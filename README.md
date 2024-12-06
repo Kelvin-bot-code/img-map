@@ -210,15 +210,19 @@ Execute the programs and publish them.
 ```
 
 # OUTPUT 
+# 1
 ![Screenshot 2024-12-06 131656](https://github.com/user-attachments/assets/95a83230-ce79-46ed-b831-feb1ef86d0c5)
-
+# 2
 ![Screenshot 2024-12-06 131755](https://github.com/user-attachments/assets/baf7919b-34f9-435a-a2d0-b2291611bbea)
-
+# 3
 ![Screenshot 2024-12-06 131905](https://github.com/user-attachments/assets/b708a722-f2a1-4c86-ab77-6a8371b101d4)
+# 4
 ![Screenshot 2024-12-06 131921](https://github.com/user-attachments/assets/5b18d549-7e3a-48de-aa1d-2d90ec0a9c9f)
+# 5
 ![Screenshot 2024-12-06 131940](https://github.com/user-attachments/assets/0bcc5bd2-99f8-477b-bea3-8a1c8ee72b6e)
+# 6
 ![Screenshot 2024-12-06 131955](https://github.com/user-attachments/assets/ab44eb18-a8b9-47f5-80d7-86998424a14e)
 
-# RESULT
+## RESULT
 
 # The program for implementing image maps using HTML is executed successfully.
